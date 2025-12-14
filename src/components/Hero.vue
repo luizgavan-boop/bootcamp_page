@@ -1,5 +1,5 @@
 <template>
-    <section class="text-white min-h-screen flex bg-repeat items-center" style="background-image:url('https://picsum.photos/1200/800?randoms=1');">
+    <section class="text-white min-h-screen flex bg-repeat items-center" style="background-image:url('https://picsum.photos/1200/800?randoms=2');">
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-       <h1 class="text-5xl font-extrabold mb-6">Build Your Dream Web Projects
+       <h1 class="text-5xl font-extrabold mb-6">PUSHING CLONE INTO GIT
        </h1>
 
        <p class="text-lg mb-8 text-gray-100">
